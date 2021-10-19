@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Swarm/static/css/main.c2db147a.chunk.css",
+    "main.js": "/Swarm/static/js/main.9098eeba.chunk.js",
+    "main.js.map": "/Swarm/static/js/main.9098eeba.chunk.js.map",
+    "runtime-main.js": "/Swarm/static/js/runtime-main.f7931b7f.js",
+    "runtime-main.js.map": "/Swarm/static/js/runtime-main.f7931b7f.js.map",
+    "static/js/2.b9f8834d.chunk.js": "/Swarm/static/js/2.b9f8834d.chunk.js",
+    "static/js/2.b9f8834d.chunk.js.map": "/Swarm/static/js/2.b9f8834d.chunk.js.map",
+    "static/js/3.7f09ecf1.chunk.js": "/Swarm/static/js/3.7f09ecf1.chunk.js",
+    "static/js/3.7f09ecf1.chunk.js.map": "/Swarm/static/js/3.7f09ecf1.chunk.js.map",
+    "index.html": "/Swarm/index.html",
+    "static/css/main.c2db147a.chunk.css.map": "/Swarm/static/css/main.c2db147a.chunk.css.map",
+    "static/js/2.b9f8834d.chunk.js.LICENSE.txt": "/Swarm/static/js/2.b9f8834d.chunk.js.LICENSE.txt",
+    "static/media/S.68f92029.gif": "/Swarm/static/media/S.68f92029.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7931b7f.js",
+    "static/js/2.b9f8834d.chunk.js",
+    "static/css/main.c2db147a.chunk.css",
+    "static/js/main.9098eeba.chunk.js"
+  ]
+}
